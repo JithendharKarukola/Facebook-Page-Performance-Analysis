@@ -1,0 +1,1515 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="42" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>fb_sample_hwk.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="282" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="210" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>Contains</Operator>
+            <Field>Page Name</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2024-03-17 21:19:48</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand><![CDATA[ A]]></Operand>
+              <StartDate>2024-03-17 21:19:48</StartDate>
+              <EndDate>2024-03-17 21:19:48</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Contains([Page Name],"A")</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="246" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="Page Name" action="GroupBy" rename="Page Name" />
+            <SummarizeField field="User Name" action="GroupBy" rename="User Name" />
+            <SummarizeField field="Facebook Id" action="GroupBy" rename="Facebook Id" />
+            <SummarizeField field="Page Category" action="GroupBy" rename="Page Category" />
+            <SummarizeField field="Page Admin Top Country" action="GroupBy" rename="Page Admin Top Country" />
+            <SummarizeField field="Page Description" action="GroupBy" rename="Page Description" />
+            <SummarizeField field="Page Created" action="GroupBy" rename="Page Created" />
+            <SummarizeField field="Followers at Posting" action="GroupBy" rename="Followers at Posting" />
+            <SummarizeField field="Post Created" action="GroupBy" rename="Post Created" />
+            <SummarizeField field="Post Created Date" action="GroupBy" rename="Post Created Date" />
+            <SummarizeField field="Post Created Time" action="GroupBy" rename="Post Created Time" />
+            <SummarizeField field="Type" action="GroupBy" rename="Type" />
+            <SummarizeField field="Total Interactions" action="GroupBy" rename="Total Interactions" />
+            <SummarizeField field="Likes" action="GroupBy" rename="Likes" />
+            <SummarizeField field="Comments" action="GroupBy" rename="Comments" />
+            <SummarizeField field="Shares" action="GroupBy" rename="Shares" />
+            <SummarizeField field="Love" action="GroupBy" rename="Love" />
+            <SummarizeField field="Wow" action="GroupBy" rename="Wow" />
+            <SummarizeField field="Haha" action="GroupBy" rename="Haha" />
+            <SummarizeField field="Sad" action="GroupBy" rename="Sad" />
+            <SummarizeField field="Angry" action="GroupBy" rename="Angry" />
+            <SummarizeField field="Care" action="GroupBy" rename="Care" />
+            <SummarizeField field="Video Share Status" action="GroupBy" rename="Video Share Status" />
+            <SummarizeField field="Is Video Owner?" action="GroupBy" rename="Is Video Owner?" />
+            <SummarizeField field="Post Views" action="GroupBy" rename="Post Views" />
+            <SummarizeField field="Total Views" action="GroupBy" rename="Total Views" />
+            <SummarizeField field="Total Views For All Crossposts" action="GroupBy" rename="Total Views For All Crossposts" />
+            <SummarizeField field="Video Length" action="GroupBy" rename="Video Length" />
+            <SummarizeField field="URL" action="GroupBy" rename="URL" />
+            <SummarizeField field="Message" action="GroupBy" rename="Message" />
+            <SummarizeField field="Link" action="GroupBy" rename="Link" />
+            <SummarizeField field="Final Link" action="GroupBy" rename="Final Link" />
+            <SummarizeField field="Image Text" action="GroupBy" rename="Image Text" />
+            <SummarizeField field="Link Text" action="GroupBy" rename="Link Text" />
+            <SummarizeField field="Description" action="GroupBy" rename="Description" />
+            <SummarizeField field="Sponsor Id" action="GroupBy" rename="Sponsor Id" />
+            <SummarizeField field="Sponsor Name" action="GroupBy" rename="Sponsor Name" />
+            <SummarizeField field="Sponsor Category" action="GroupBy" rename="Sponsor Category" />
+            <SummarizeField field="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" action="GroupBy" rename="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" />
+            <SummarizeField field="Page Name" action="CountNonNull" rename="CountNonNull_Page Name" />
+            <SummarizeField field="User Name" action="CountNonNull" rename="CountNonNull_User Name" />
+            <SummarizeField field="Facebook Id" action="CountNonNull" rename="CountNonNull_Facebook Id" />
+            <SummarizeField field="Page Category" action="CountNonNull" rename="CountNonNull_Page Category" />
+            <SummarizeField field="Page Admin Top Country" action="CountNonNull" rename="CountNonNull_Page Admin Top Country" />
+            <SummarizeField field="Page Description" action="CountNonNull" rename="CountNonNull_Page Description" />
+            <SummarizeField field="Page Created" action="CountNonNull" rename="CountNonNull_Page Created" />
+            <SummarizeField field="Followers at Posting" action="CountNonNull" rename="CountNonNull_Followers at Posting" />
+            <SummarizeField field="Post Created" action="CountNonNull" rename="CountNonNull_Post Created" />
+            <SummarizeField field="Post Created Date" action="CountNonNull" rename="CountNonNull_Post Created Date" />
+            <SummarizeField field="Post Created Time" action="CountNonNull" rename="CountNonNull_Post Created Time" />
+            <SummarizeField field="Type" action="CountNonNull" rename="CountNonNull_Type" />
+            <SummarizeField field="Total Interactions" action="CountNonNull" rename="CountNonNull_Total Interactions" />
+            <SummarizeField field="Likes" action="CountNonNull" rename="CountNonNull_Likes" />
+            <SummarizeField field="Comments" action="CountNonNull" rename="CountNonNull_Comments" />
+            <SummarizeField field="Shares" action="CountNonNull" rename="CountNonNull_Shares" />
+            <SummarizeField field="Love" action="CountNonNull" rename="CountNonNull_Love" />
+            <SummarizeField field="Wow" action="CountNonNull" rename="CountNonNull_Wow" />
+            <SummarizeField field="Haha" action="CountNonNull" rename="CountNonNull_Haha" />
+            <SummarizeField field="Sad" action="CountNonNull" rename="CountNonNull_Sad" />
+            <SummarizeField field="Angry" action="CountNonNull" rename="CountNonNull_Angry" />
+            <SummarizeField field="Care" action="CountNonNull" rename="CountNonNull_Care" />
+            <SummarizeField field="Video Share Status" action="CountNonNull" rename="CountNonNull_Video Share Status" />
+            <SummarizeField field="Is Video Owner?" action="CountNonNull" rename="CountNonNull_Is Video Owner?" />
+            <SummarizeField field="Post Views" action="CountNonNull" rename="CountNonNull_Post Views" />
+            <SummarizeField field="Total Views" action="CountNonNull" rename="CountNonNull_Total Views" />
+            <SummarizeField field="Total Views For All Crossposts" action="CountNonNull" rename="CountNonNull_Total Views For All Crossposts" />
+            <SummarizeField field="Video Length" action="CountNonNull" rename="CountNonNull_Video Length" />
+            <SummarizeField field="URL" action="CountNonNull" rename="CountNonNull_URL" />
+            <SummarizeField field="Message" action="CountNonNull" rename="CountNonNull_Message" />
+            <SummarizeField field="Link" action="CountNonNull" rename="CountNonNull_Link" />
+            <SummarizeField field="Final Link" action="CountNonNull" rename="CountNonNull_Final Link" />
+            <SummarizeField field="Image Text" action="CountNonNull" rename="CountNonNull_Image Text" />
+            <SummarizeField field="Link Text" action="CountNonNull" rename="CountNonNull_Link Text" />
+            <SummarizeField field="Description" action="CountNonNull" rename="CountNonNull_Description" />
+            <SummarizeField field="Sponsor Id" action="CountNonNull" rename="CountNonNull_Sponsor Id" />
+            <SummarizeField field="Sponsor Name" action="CountNonNull" rename="CountNonNull_Sponsor Name" />
+            <SummarizeField field="Sponsor Category" action="CountNonNull" rename="CountNonNull_Sponsor Category" />
+            <SummarizeField field="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" action="CountNonNull" rename="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="CountNonNull_Page Name" source="Summarize: CountNonNull - Page Name" type="Int64" />
+            <Field name="CountNonNull_User Name" source="Summarize: CountNonNull - User Name" type="Int64" />
+            <Field name="CountNonNull_Facebook Id" source="Summarize: CountNonNull - Facebook Id" type="Int64" />
+            <Field name="CountNonNull_Page Category" source="Summarize: CountNonNull - Page Category" type="Int64" />
+            <Field name="CountNonNull_Page Admin Top Country" source="Summarize: CountNonNull - Page Admin Top Country" type="Int64" />
+            <Field name="CountNonNull_Page Description" source="Summarize: CountNonNull - Page Description" type="Int64" />
+            <Field name="CountNonNull_Page Created" source="Summarize: CountNonNull - Page Created" type="Int64" />
+            <Field name="CountNonNull_Followers at Posting" source="Summarize: CountNonNull - Followers at Posting" type="Int64" />
+            <Field name="CountNonNull_Post Created" source="Summarize: CountNonNull - Post Created" type="Int64" />
+            <Field name="CountNonNull_Post Created Date" source="Summarize: CountNonNull - Post Created Date" type="Int64" />
+            <Field name="CountNonNull_Post Created Time" source="Summarize: CountNonNull - Post Created Time" type="Int64" />
+            <Field name="CountNonNull_Type" source="Summarize: CountNonNull - Type" type="Int64" />
+            <Field name="CountNonNull_Total Interactions" source="Summarize: CountNonNull - Total Interactions" type="Int64" />
+            <Field name="CountNonNull_Likes" source="Summarize: CountNonNull - Likes" type="Int64" />
+            <Field name="CountNonNull_Comments" source="Summarize: CountNonNull - Comments" type="Int64" />
+            <Field name="CountNonNull_Shares" source="Summarize: CountNonNull - Shares" type="Int64" />
+            <Field name="CountNonNull_Love" source="Summarize: CountNonNull - Love" type="Int64" />
+            <Field name="CountNonNull_Wow" source="Summarize: CountNonNull - Wow" type="Int64" />
+            <Field name="CountNonNull_Haha" source="Summarize: CountNonNull - Haha" type="Int64" />
+            <Field name="CountNonNull_Sad" source="Summarize: CountNonNull - Sad" type="Int64" />
+            <Field name="CountNonNull_Angry" source="Summarize: CountNonNull - Angry" type="Int64" />
+            <Field name="CountNonNull_Care" source="Summarize: CountNonNull - Care" type="Int64" />
+            <Field name="CountNonNull_Video Share Status" source="Summarize: CountNonNull - Video Share Status" type="Int64" />
+            <Field name="CountNonNull_Is Video Owner?" source="Summarize: CountNonNull - Is Video Owner?" type="Int64" />
+            <Field name="CountNonNull_Post Views" source="Summarize: CountNonNull - Post Views" type="Int64" />
+            <Field name="CountNonNull_Total Views" source="Summarize: CountNonNull - Total Views" type="Int64" />
+            <Field name="CountNonNull_Total Views For All Crossposts" source="Summarize: CountNonNull - Total Views For All Crossposts" type="Int64" />
+            <Field name="CountNonNull_Video Length" source="Summarize: CountNonNull - Video Length" type="Int64" />
+            <Field name="CountNonNull_URL" source="Summarize: CountNonNull - URL" type="Int64" />
+            <Field name="CountNonNull_Message" source="Summarize: CountNonNull - Message" type="Int64" />
+            <Field name="CountNonNull_Link" source="Summarize: CountNonNull - Link" type="Int64" />
+            <Field name="CountNonNull_Final Link" source="Summarize: CountNonNull - Final Link" type="Int64" />
+            <Field name="CountNonNull_Image Text" source="Summarize: CountNonNull - Image Text" type="Int64" />
+            <Field name="CountNonNull_Link Text" source="Summarize: CountNonNull - Link Text" type="Int64" />
+            <Field name="CountNonNull_Description" source="Summarize: CountNonNull - Description" type="Int64" />
+            <Field name="CountNonNull_Sponsor Id" source="Summarize: CountNonNull - Sponsor Id" type="Int64" />
+            <Field name="CountNonNull_Sponsor Name" source="Summarize: CountNonNull - Sponsor Name" type="Int64" />
+            <Field name="CountNonNull_Sponsor Category" source="Summarize: CountNonNull - Sponsor Category" type="Int64" />
+            <Field name="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" source="Summarize: CountNonNull - Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="546" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Likes" />
+            <Field field="Comments" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Comments" />
+            <Field field="Likes" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Page Name" selected="False" input="Right_" />
+                <SelectField field="Right_User Name" selected="False" input="Right_" />
+                <SelectField field="Right_Facebook Id" selected="False" input="Right_" />
+                <SelectField field="Left_Count" selected="True" input="Left_" />
+                <SelectField field="Right_Page Category" selected="False" input="Right_" />
+                <SelectField field="Right_Page Admin Top Country" selected="False" input="Right_" />
+                <SelectField field="Right_Page Description" selected="False" input="Right_" />
+                <SelectField field="Right_Page Created" selected="False" input="Right_" />
+                <SelectField field="Right_Followers at Posting" selected="False" input="Right_" />
+                <SelectField field="Right_Post Created" selected="False" input="Right_" />
+                <SelectField field="Right_Post Created Date" selected="False" input="Right_" />
+                <SelectField field="Right_Post Created Time" selected="False" input="Right_" />
+                <SelectField field="Right_Type" selected="False" input="Right_" />
+                <SelectField field="Right_Total Interactions" selected="False" input="Right_" />
+                <SelectField field="Right_Likes" selected="False" input="Right_" />
+                <SelectField field="Right_Comments" selected="False" input="Right_" />
+                <SelectField field="Right_Shares" selected="False" input="Right_" />
+                <SelectField field="Right_Love" selected="False" input="Right_" />
+                <SelectField field="Right_Wow" selected="False" input="Right_" />
+                <SelectField field="Right_Haha" selected="False" input="Right_" />
+                <SelectField field="Right_Sad" selected="False" input="Right_" />
+                <SelectField field="Right_Angry" selected="False" input="Right_" />
+                <SelectField field="Right_Care" selected="False" input="Right_" />
+                <SelectField field="Right_Video Share Status" selected="False" input="Right_" />
+                <SelectField field="Right_Is Video Owner?" selected="False" input="Right_" />
+                <SelectField field="Right_Post Views" selected="False" input="Right_" />
+                <SelectField field="Right_Total Views" selected="False" input="Right_" />
+                <SelectField field="Right_Total Views For All Crossposts" selected="False" input="Right_" />
+                <SelectField field="Right_Video Length" selected="False" input="Right_" />
+                <SelectField field="Right_URL" selected="False" input="Right_" />
+                <SelectField field="Right_Message" selected="False" input="Right_" />
+                <SelectField field="Right_Link" selected="False" input="Right_" />
+                <SelectField field="Right_Final Link" selected="False" input="Right_" />
+                <SelectField field="Right_Image Text" selected="False" input="Right_" />
+                <SelectField field="Right_Link Text" selected="False" input="Right_" />
+                <SelectField field="Right_Description" selected="False" input="Right_" />
+                <SelectField field="Right_Sponsor Id" selected="False" input="Right_" />
+                <SelectField field="Right_Sponsor Name" selected="False" input="Right_" />
+                <SelectField field="Right_Sponsor Category" selected="False" input="Right_" />
+                <SelectField field="Right_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" selected="False" input="Right_" />
+                <SelectField field="Left_Page Name" selected="False" input="Left_" />
+                <SelectField field="Left_User Name" selected="False" input="Left_" />
+                <SelectField field="Left_Facebook Id" selected="False" input="Left_" />
+                <SelectField field="Left_Page Category" selected="False" input="Left_" />
+                <SelectField field="Left_Page Admin Top Country" selected="False" input="Left_" />
+                <SelectField field="Left_Page Description" selected="False" input="Left_" />
+                <SelectField field="Left_Page Created" selected="False" input="Left_" />
+                <SelectField field="Left_Followers at Posting" selected="False" input="Left_" />
+                <SelectField field="Left_Post Created" selected="False" input="Left_" />
+                <SelectField field="Left_Post Created Date" selected="False" input="Left_" />
+                <SelectField field="Left_Post Created Time" selected="False" input="Left_" />
+                <SelectField field="Left_Type" selected="False" input="Left_" />
+                <SelectField field="Left_Total Interactions" selected="False" input="Left_" />
+                <SelectField field="Left_Likes" selected="False" input="Left_" />
+                <SelectField field="Left_Comments" selected="False" input="Left_" />
+                <SelectField field="Left_Shares" selected="False" input="Left_" />
+                <SelectField field="Left_Love" selected="False" input="Left_" />
+                <SelectField field="Left_Wow" selected="False" input="Left_" />
+                <SelectField field="Left_Haha" selected="False" input="Left_" />
+                <SelectField field="Left_Sad" selected="False" input="Left_" />
+                <SelectField field="Left_Angry" selected="False" input="Left_" />
+                <SelectField field="Left_Care" selected="False" input="Left_" />
+                <SelectField field="Left_Video Share Status" selected="False" input="Left_" />
+                <SelectField field="Left_Is Video Owner?" selected="False" input="Left_" />
+                <SelectField field="Left_Post Views" selected="False" input="Left_" />
+                <SelectField field="Left_Total Views" selected="False" input="Left_" />
+                <SelectField field="Left_Total Views For All Crossposts" selected="False" input="Left_" />
+                <SelectField field="Left_Video Length" selected="False" input="Left_" />
+                <SelectField field="Left_URL" selected="False" input="Left_" />
+                <SelectField field="Left_Message" selected="False" input="Left_" />
+                <SelectField field="Left_Link" selected="False" input="Left_" />
+                <SelectField field="Left_Final Link" selected="False" input="Left_" />
+                <SelectField field="Left_Image Text" selected="False" input="Left_" />
+                <SelectField field="Left_Link Text" selected="False" input="Left_" />
+                <SelectField field="Left_Description" selected="False" input="Left_" />
+                <SelectField field="Left_Sponsor Id" selected="False" input="Left_" />
+                <SelectField field="Left_Sponsor Name" selected="False" input="Left_" />
+                <SelectField field="Left_Sponsor Category" selected="False" input="Left_" />
+                <SelectField field="Left_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" selected="False" input="Left_" />
+                <SelectField field="Right_Count" selected="True" rename="Right_Count" input="Right_" />
+                <SelectField field="Right_Count_Likes" selected="False" input="Right_" />
+                <SelectField field="Right_Count_Comments" selected="False" input="Right_" />
+                <SelectField field="Right_RecordID" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Page Name" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_User Name" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Facebook Id" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Page Category" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Page Admin Top Country" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Page Description" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Page Created" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Followers at Posting" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Post Created" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Post Created Date" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Post Created Time" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Type" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Total Interactions" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Likes" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Comments" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Shares" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Love" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Wow" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Haha" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Sad" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Angry" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Care" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Video Share Status" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Is Video Owner?" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Post Views" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Total Views" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Total Views For All Crossposts" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Video Length" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_URL" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Message" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Link" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Final Link" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Image Text" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Link Text" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Description" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Sponsor Id" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Sponsor Name" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Sponsor Category" selected="False" input="Right_" />
+                <SelectField field="Right_CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" selected="False" input="Right_" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="354" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="CountNonNull_Likes" order="Descending" />
+            <Field field="CountNonNull_Comments" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>CountNonNull_Likes - Descending
+CountNonNull_Comments - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="CountNonNull_Page Name" source="Summarize: CountNonNull - Page Name" type="Int64" />
+            <Field name="CountNonNull_User Name" source="Summarize: CountNonNull - User Name" type="Int64" />
+            <Field name="CountNonNull_Facebook Id" source="Summarize: CountNonNull - Facebook Id" type="Int64" />
+            <Field name="CountNonNull_Page Category" source="Summarize: CountNonNull - Page Category" type="Int64" />
+            <Field name="CountNonNull_Page Admin Top Country" source="Summarize: CountNonNull - Page Admin Top Country" type="Int64" />
+            <Field name="CountNonNull_Page Description" source="Summarize: CountNonNull - Page Description" type="Int64" />
+            <Field name="CountNonNull_Page Created" source="Summarize: CountNonNull - Page Created" type="Int64" />
+            <Field name="CountNonNull_Followers at Posting" source="Summarize: CountNonNull - Followers at Posting" type="Int64" />
+            <Field name="CountNonNull_Post Created" source="Summarize: CountNonNull - Post Created" type="Int64" />
+            <Field name="CountNonNull_Post Created Date" source="Summarize: CountNonNull - Post Created Date" type="Int64" />
+            <Field name="CountNonNull_Post Created Time" source="Summarize: CountNonNull - Post Created Time" type="Int64" />
+            <Field name="CountNonNull_Type" source="Summarize: CountNonNull - Type" type="Int64" />
+            <Field name="CountNonNull_Total Interactions" source="Summarize: CountNonNull - Total Interactions" type="Int64" />
+            <Field name="CountNonNull_Likes" source="Summarize: CountNonNull - Likes" type="Int64" />
+            <Field name="CountNonNull_Comments" source="Summarize: CountNonNull - Comments" type="Int64" />
+            <Field name="CountNonNull_Shares" source="Summarize: CountNonNull - Shares" type="Int64" />
+            <Field name="CountNonNull_Love" source="Summarize: CountNonNull - Love" type="Int64" />
+            <Field name="CountNonNull_Wow" source="Summarize: CountNonNull - Wow" type="Int64" />
+            <Field name="CountNonNull_Haha" source="Summarize: CountNonNull - Haha" type="Int64" />
+            <Field name="CountNonNull_Sad" source="Summarize: CountNonNull - Sad" type="Int64" />
+            <Field name="CountNonNull_Angry" source="Summarize: CountNonNull - Angry" type="Int64" />
+            <Field name="CountNonNull_Care" source="Summarize: CountNonNull - Care" type="Int64" />
+            <Field name="CountNonNull_Video Share Status" source="Summarize: CountNonNull - Video Share Status" type="Int64" />
+            <Field name="CountNonNull_Is Video Owner?" source="Summarize: CountNonNull - Is Video Owner?" type="Int64" />
+            <Field name="CountNonNull_Post Views" source="Summarize: CountNonNull - Post Views" type="Int64" />
+            <Field name="CountNonNull_Total Views" source="Summarize: CountNonNull - Total Views" type="Int64" />
+            <Field name="CountNonNull_Total Views For All Crossposts" source="Summarize: CountNonNull - Total Views For All Crossposts" type="Int64" />
+            <Field name="CountNonNull_Video Length" source="Summarize: CountNonNull - Video Length" type="Int64" />
+            <Field name="CountNonNull_URL" source="Summarize: CountNonNull - URL" type="Int64" />
+            <Field name="CountNonNull_Message" source="Summarize: CountNonNull - Message" type="Int64" />
+            <Field name="CountNonNull_Link" source="Summarize: CountNonNull - Link" type="Int64" />
+            <Field name="CountNonNull_Final Link" source="Summarize: CountNonNull - Final Link" type="Int64" />
+            <Field name="CountNonNull_Image Text" source="Summarize: CountNonNull - Image Text" type="Int64" />
+            <Field name="CountNonNull_Link Text" source="Summarize: CountNonNull - Link Text" type="Int64" />
+            <Field name="CountNonNull_Description" source="Summarize: CountNonNull - Description" type="Int64" />
+            <Field name="CountNonNull_Sponsor Id" source="Summarize: CountNonNull - Sponsor Id" type="Int64" />
+            <Field name="CountNonNull_Sponsor Name" source="Summarize: CountNonNull - Sponsor Name" type="Int64" />
+            <Field name="CountNonNull_Sponsor Category" source="Summarize: CountNonNull - Sponsor Category" type="Int64" />
+            <Field name="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" source="Summarize: CountNonNull - Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="474" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;likes_views&quot;=[Likes] / (Max([Total Views], [CountNonNull_Total Views For All Crossposts]&#xA;" field="Likes_view" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;comments_view&quot;=[Likes] / (Max([Total Views], [Total Views For All Crossposts])&#xA;" field="Comments_view" size="1073741823" type="V_WString" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Likes_view = "likes_views"=[Likes] / (Max([Total Views], [CountNonNull_Total Vie...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="PlotlyCharting">
+        <Position x="690" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ChartingFields>
+            <Traces json:Array="true" xmlns:json="http://james.newtonking.com/projects/json">
+              <type>scatter</type>
+              <mode>markers</mode>
+            </Traces>
+            <Layout>
+              <title>
+                <text>
+                </text>
+              </title>
+              <font>
+                <family>sans-serif</family>
+              </font>
+              <autosize>false</autosize>
+              <width>700</width>
+              <height>849</height>
+              <showlegend>true</showlegend>
+              <hovermode>closest</hovermode>
+              <xaxis>
+                <range>-383</range>
+                <range>300</range>
+                <autorange>false</autorange>
+                <tickfont>
+                  <size>12</size>
+                </tickfont>
+                <nticks>0</nticks>
+              </xaxis>
+              <yaxis>
+                <range>-268.61465060401315</range>
+                <range>218.95732043125597</range>
+                <autorange>false</autorange>
+              </yaxis>
+            </Layout>
+          </ChartingFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Chart" size="2147483647" source="Report:Chart:" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="ComposerInteractiveCharting" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="822" y="366" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Layout>
+            <View1>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="24">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.PearsonCorrelation.PearsonCorrelation">
+        <Position x="750" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields orderChanged="False">
+            <Field name="CountNonNull_Likes" />
+            <Field name="CountNonNull_Comments" />
+            <Field name="RecordID" selected="False" />
+            <Field name="CountNonNull_Page Name" selected="False" />
+            <Field name="CountNonNull_User Name" selected="False" />
+            <Field name="CountNonNull_Facebook Id" selected="False" />
+            <Field name="CountNonNull_Page Category" selected="False" />
+            <Field name="CountNonNull_Page Admin Top Country" selected="False" />
+            <Field name="CountNonNull_Page Description" selected="False" />
+            <Field name="CountNonNull_Page Created" selected="False" />
+            <Field name="CountNonNull_Followers at Posting" selected="False" />
+            <Field name="CountNonNull_Post Created" selected="False" />
+            <Field name="CountNonNull_Post Created Date" selected="False" />
+            <Field name="CountNonNull_Post Created Time" selected="False" />
+            <Field name="CountNonNull_Type" selected="False" />
+            <Field name="CountNonNull_Total Interactions" selected="False" />
+            <Field name="CountNonNull_Shares" selected="False" />
+            <Field name="CountNonNull_Love" selected="False" />
+            <Field name="CountNonNull_Wow" selected="False" />
+            <Field name="CountNonNull_Haha" selected="False" />
+            <Field name="CountNonNull_Sad" selected="False" />
+            <Field name="CountNonNull_Angry" selected="False" />
+            <Field name="CountNonNull_Care" selected="False" />
+            <Field name="CountNonNull_Video Share Status" selected="False" />
+            <Field name="CountNonNull_Is Video Owner?" selected="False" />
+            <Field name="CountNonNull_Post Views" selected="False" />
+            <Field name="CountNonNull_Total Views" selected="False" />
+            <Field name="CountNonNull_Total Views For All Crossposts" selected="False" />
+            <Field name="CountNonNull_Video Length" selected="False" />
+            <Field name="CountNonNull_URL" selected="False" />
+            <Field name="CountNonNull_Message" selected="False" />
+            <Field name="CountNonNull_Link" selected="False" />
+            <Field name="CountNonNull_Final Link" selected="False" />
+            <Field name="CountNonNull_Image Text" selected="False" />
+            <Field name="CountNonNull_Link Text" selected="False" />
+            <Field name="CountNonNull_Description" selected="False" />
+            <Field name="CountNonNull_Sponsor Id" selected="False" />
+            <Field name="CountNonNull_Sponsor Name" selected="False" />
+            <Field name="CountNonNull_Sponsor Category" selected="False" />
+            <Field name="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" selected="False" />
+            <Field name="*Unknown" selected="False" />
+          </Fields>
+          <Covariance value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Result" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxPearsonCorrelation" />
+    </Node>
+    <Node ToolID="28">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="30" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([Page Name])</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([Page Name])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="29">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="42" y="438" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([Likes])</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([Likes])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="30">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="162" y="450" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>!IsNull([Comments])</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsNull([Comments])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="True">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="False">
+          <RecordInfo>
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="570" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>NPercent</Mode>
+          <N>50</N>
+          <GroupFields orderChanged="False">
+            <Field name="RecordID" />
+            <Field name="Page Name" />
+          </GroupFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>undefined 50%</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="CountNonNull_Page Name" source="Summarize: CountNonNull - Page Name" type="Int64" />
+            <Field name="CountNonNull_User Name" source="Summarize: CountNonNull - User Name" type="Int64" />
+            <Field name="CountNonNull_Facebook Id" source="Summarize: CountNonNull - Facebook Id" type="Int64" />
+            <Field name="CountNonNull_Page Category" source="Summarize: CountNonNull - Page Category" type="Int64" />
+            <Field name="CountNonNull_Page Admin Top Country" source="Summarize: CountNonNull - Page Admin Top Country" type="Int64" />
+            <Field name="CountNonNull_Page Description" source="Summarize: CountNonNull - Page Description" type="Int64" />
+            <Field name="CountNonNull_Page Created" source="Summarize: CountNonNull - Page Created" type="Int64" />
+            <Field name="CountNonNull_Followers at Posting" source="Summarize: CountNonNull - Followers at Posting" type="Int64" />
+            <Field name="CountNonNull_Post Created" source="Summarize: CountNonNull - Post Created" type="Int64" />
+            <Field name="CountNonNull_Post Created Date" source="Summarize: CountNonNull - Post Created Date" type="Int64" />
+            <Field name="CountNonNull_Post Created Time" source="Summarize: CountNonNull - Post Created Time" type="Int64" />
+            <Field name="CountNonNull_Type" source="Summarize: CountNonNull - Type" type="Int64" />
+            <Field name="CountNonNull_Total Interactions" source="Summarize: CountNonNull - Total Interactions" type="Int64" />
+            <Field name="CountNonNull_Likes" source="Summarize: CountNonNull - Likes" type="Int64" />
+            <Field name="CountNonNull_Comments" source="Summarize: CountNonNull - Comments" type="Int64" />
+            <Field name="CountNonNull_Shares" source="Summarize: CountNonNull - Shares" type="Int64" />
+            <Field name="CountNonNull_Love" source="Summarize: CountNonNull - Love" type="Int64" />
+            <Field name="CountNonNull_Wow" source="Summarize: CountNonNull - Wow" type="Int64" />
+            <Field name="CountNonNull_Haha" source="Summarize: CountNonNull - Haha" type="Int64" />
+            <Field name="CountNonNull_Sad" source="Summarize: CountNonNull - Sad" type="Int64" />
+            <Field name="CountNonNull_Angry" source="Summarize: CountNonNull - Angry" type="Int64" />
+            <Field name="CountNonNull_Care" source="Summarize: CountNonNull - Care" type="Int64" />
+            <Field name="CountNonNull_Video Share Status" source="Summarize: CountNonNull - Video Share Status" type="Int64" />
+            <Field name="CountNonNull_Is Video Owner?" source="Summarize: CountNonNull - Is Video Owner?" type="Int64" />
+            <Field name="CountNonNull_Post Views" source="Summarize: CountNonNull - Post Views" type="Int64" />
+            <Field name="CountNonNull_Total Views" source="Summarize: CountNonNull - Total Views" type="Int64" />
+            <Field name="CountNonNull_Total Views For All Crossposts" source="Summarize: CountNonNull - Total Views For All Crossposts" type="Int64" />
+            <Field name="CountNonNull_Video Length" source="Summarize: CountNonNull - Video Length" type="Int64" />
+            <Field name="CountNonNull_URL" source="Summarize: CountNonNull - URL" type="Int64" />
+            <Field name="CountNonNull_Message" source="Summarize: CountNonNull - Message" type="Int64" />
+            <Field name="CountNonNull_Link" source="Summarize: CountNonNull - Link" type="Int64" />
+            <Field name="CountNonNull_Final Link" source="Summarize: CountNonNull - Final Link" type="Int64" />
+            <Field name="CountNonNull_Image Text" source="Summarize: CountNonNull - Image Text" type="Int64" />
+            <Field name="CountNonNull_Link Text" source="Summarize: CountNonNull - Link Text" type="Int64" />
+            <Field name="CountNonNull_Description" source="Summarize: CountNonNull - Description" type="Int64" />
+            <Field name="CountNonNull_Sponsor Id" source="Summarize: CountNonNull - Sponsor Id" type="Int64" />
+            <Field name="CountNonNull_Sponsor Name" source="Summarize: CountNonNull - Sponsor Name" type="Int64" />
+            <Field name="CountNonNull_Sponsor Category" source="Summarize: CountNonNull - Sponsor Category" type="Int64" />
+            <Field name="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" source="Summarize: CountNonNull - Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="438" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="RecordID" source="RecordID: Starting Value=1" type="Int32" />
+            <Field name="Page Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="User Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Facebook Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Admin Top Country" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Page Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Followers at Posting" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Date" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Created Time" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Type" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Interactions" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Likes" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Comments" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Shares" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Love" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Wow" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Haha" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sad" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Angry" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Care" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Share Status" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Is Video Owner?" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Post Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Total Views For All Crossposts" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Video Length" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="URL" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Message" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Final Link" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Image Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Link Text" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Description" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Id" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Name" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Sponsor Category" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" size="254" source="File: C:\Users\karuk\OneDrive\Documents\BIA650\fb_sample_hwk.csv" type="V_WString" />
+            <Field name="CountNonNull_Page Name" source="Summarize: CountNonNull - Page Name" type="Int64" />
+            <Field name="CountNonNull_User Name" source="Summarize: CountNonNull - User Name" type="Int64" />
+            <Field name="CountNonNull_Facebook Id" source="Summarize: CountNonNull - Facebook Id" type="Int64" />
+            <Field name="CountNonNull_Page Category" source="Summarize: CountNonNull - Page Category" type="Int64" />
+            <Field name="CountNonNull_Page Admin Top Country" source="Summarize: CountNonNull - Page Admin Top Country" type="Int64" />
+            <Field name="CountNonNull_Page Description" source="Summarize: CountNonNull - Page Description" type="Int64" />
+            <Field name="CountNonNull_Page Created" source="Summarize: CountNonNull - Page Created" type="Int64" />
+            <Field name="CountNonNull_Followers at Posting" source="Summarize: CountNonNull - Followers at Posting" type="Int64" />
+            <Field name="CountNonNull_Post Created" source="Summarize: CountNonNull - Post Created" type="Int64" />
+            <Field name="CountNonNull_Post Created Date" source="Summarize: CountNonNull - Post Created Date" type="Int64" />
+            <Field name="CountNonNull_Post Created Time" source="Summarize: CountNonNull - Post Created Time" type="Int64" />
+            <Field name="CountNonNull_Type" source="Summarize: CountNonNull - Type" type="Int64" />
+            <Field name="CountNonNull_Total Interactions" source="Summarize: CountNonNull - Total Interactions" type="Int64" />
+            <Field name="CountNonNull_Likes" source="Summarize: CountNonNull - Likes" type="Int64" />
+            <Field name="CountNonNull_Comments" source="Summarize: CountNonNull - Comments" type="Int64" />
+            <Field name="CountNonNull_Shares" source="Summarize: CountNonNull - Shares" type="Int64" />
+            <Field name="CountNonNull_Love" source="Summarize: CountNonNull - Love" type="Int64" />
+            <Field name="CountNonNull_Wow" source="Summarize: CountNonNull - Wow" type="Int64" />
+            <Field name="CountNonNull_Haha" source="Summarize: CountNonNull - Haha" type="Int64" />
+            <Field name="CountNonNull_Sad" source="Summarize: CountNonNull - Sad" type="Int64" />
+            <Field name="CountNonNull_Angry" source="Summarize: CountNonNull - Angry" type="Int64" />
+            <Field name="CountNonNull_Care" source="Summarize: CountNonNull - Care" type="Int64" />
+            <Field name="CountNonNull_Video Share Status" source="Summarize: CountNonNull - Video Share Status" type="Int64" />
+            <Field name="CountNonNull_Is Video Owner?" source="Summarize: CountNonNull - Is Video Owner?" type="Int64" />
+            <Field name="CountNonNull_Post Views" source="Summarize: CountNonNull - Post Views" type="Int64" />
+            <Field name="CountNonNull_Total Views" source="Summarize: CountNonNull - Total Views" type="Int64" />
+            <Field name="CountNonNull_Total Views For All Crossposts" source="Summarize: CountNonNull - Total Views For All Crossposts" type="Int64" />
+            <Field name="CountNonNull_Video Length" source="Summarize: CountNonNull - Video Length" type="Int64" />
+            <Field name="CountNonNull_URL" source="Summarize: CountNonNull - URL" type="Int64" />
+            <Field name="CountNonNull_Message" source="Summarize: CountNonNull - Message" type="Int64" />
+            <Field name="CountNonNull_Link" source="Summarize: CountNonNull - Link" type="Int64" />
+            <Field name="CountNonNull_Final Link" source="Summarize: CountNonNull - Final Link" type="Int64" />
+            <Field name="CountNonNull_Image Text" source="Summarize: CountNonNull - Image Text" type="Int64" />
+            <Field name="CountNonNull_Link Text" source="Summarize: CountNonNull - Link Text" type="Int64" />
+            <Field name="CountNonNull_Description" source="Summarize: CountNonNull - Description" type="Int64" />
+            <Field name="CountNonNull_Sponsor Id" source="Summarize: CountNonNull - Sponsor Id" type="Int64" />
+            <Field name="CountNonNull_Sponsor Name" source="Summarize: CountNonNull - Sponsor Name" type="Int64" />
+            <Field name="CountNonNull_Sponsor Category" source="Summarize: CountNonNull - Sponsor Category" type="Int64" />
+            <Field name="CountNonNull_Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" source="Summarize: CountNonNull - Overperforming Score (weighted  —  Likes 1x Shares 1x Comments 1x Love 1x Wow 1x Haha 1x Sad 1x Angry 1x Care 1x )" type="Int64" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="28" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="True" />
+      <Destination ToolID="12" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="12" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Right" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Right" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="21" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="28" Connection="True" />
+      <Destination ToolID="29" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="29" Connection="True" />
+      <Destination ToolID="30" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="30" Connection="True" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Alt Hw</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="73338310-58c5-4650-9965-d7a2b77e9d18" />
+      <Telemetry>
+        <PreviousWorkflowId value="f91c4e87-595f-40ee-a0cb-036be8a65b5d" />
+        <OriginWorkflowId value="f91c4e87-595f-40ee-a0cb-036be8a65b5d" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (24)</Name>
+          <ToolId value="24" />
+          <Questions />
+        </Question>
+      </Questions>
+      <ModuleType>Macro</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="39" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="20" Selected="True" />
+        <Tool ToolId="21" Selected="False" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
